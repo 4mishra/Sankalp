@@ -1,0 +1,2 @@
+** Deployment Automation Tool
+ A deployment tool that automates the process of deploying applications to various environments. This tool could handle tasks such as building and packaging the application, orchestrating containerized deployments, managing configuration, and performing rolling updates.
